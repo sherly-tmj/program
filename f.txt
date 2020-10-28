@@ -1,0 +1,10 @@
+#include<stdio.h>
+void main()
+{
+printf("ënter the num");
+scanf("%d",&num1);
+printf("ënter the num");
+scanf("%d",&num2);
+div=a/b;
+printf("the division of the number is %d",sum);
+}
